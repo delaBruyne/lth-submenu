@@ -1,0 +1,4 @@
+name = LTH Submenu
+description = Manage your secondary tabs submenu in a block.
+core = 7.x
+dependencies[] = menu
