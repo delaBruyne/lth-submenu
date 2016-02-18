@@ -1,4 +1,4 @@
-# lth-submenu
+# D7 custom module : lth_submenu
 
 In **Drupal 7**, manage your **secondary tabs menu** as a **block**, for better theming purpose.
 
